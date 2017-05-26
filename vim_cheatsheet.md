@@ -1,15 +1,17 @@
 # Motions
-`f` (forward to)
-`F` (backward to)
-`t` (forward until)
-T (backward until)
-; (repeat forward)
-, (repeat backward)
-H (high)
-M (middle)
-L (low)
-}  forward a paragraph
-% jump to corresponding item
+Command | Description
+---------------------------------
+`f`|forward to
+`F`|backward to
+`t`|forward until
+`T`|backward until
+`;`|repeat forward
+`,`|repeat backward
+`H`|high
+`M`|middle
+`L`|low
+`}`|forward a paragraph
+`%`|jump to corresponding item
 
 # Text Objects
 aw (a word)
