@@ -1,6 +1,6 @@
 # Motions
 Command | Description
----------------------------------
+--------|------------------------
 `f`|forward to
 `F`|backward to
 `t`|forward until
