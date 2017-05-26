@@ -1,6 +1,6 @@
 # Motions
-`f` (forward to)
-`F` (backward to)
+``f``` (forward to)
+``F``` (backward to)
 `t` (forward until)
 T (backward until)
 ; (repeat forward)
