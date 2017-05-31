@@ -12,6 +12,8 @@ Command | Description
 `L`|low
 `}`|forward a paragraph
 `%`|jump to corresponding item
+`]m`|jump to beginning of method definition
+`]M`|jump to end of method definition
 
 # Text Objects
 Command | Description
@@ -43,7 +45,7 @@ Command | Description
 Command | Description
 --------|------------------------
 `H,J,K,L`|move window
-`=|`resize windows to same size
+`=`|resize windows to same size
 `-, +`|adjust height
 `<,>`|adjust width
 
